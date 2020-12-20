@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ogl_practice", "ogl_practice.vcxproj", "{201B5EB2-04DC-4BA4-9D0E-0D71B8ACDF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201B5EB2-04DC-4BA4-9D0E-0D71B8ACDF80}.Debug|x64.ActiveCfg = Debug|x64
+		{201B5EB2-04DC-4BA4-9D0E-0D71B8ACDF80}.Debug|x64.Build.0 = Debug|x64
+		{201B5EB2-04DC-4BA4-9D0E-0D71B8ACDF80}.Release|x64.ActiveCfg = Release|x64
+		{201B5EB2-04DC-4BA4-9D0E-0D71B8ACDF80}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B288BAE-B59F-4A8E-B7EE-46B218B4C9CA}
+	EndGlobalSection
+EndGlobal
